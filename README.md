@@ -67,5 +67,5 @@ Backend Software Engineer ⚙️ | System Builder | Problem Solver
 
 <!-- 🟢 Footer Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer"/>
 </p>
