@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- 🟣 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Backend%20Engineer&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**JamalAmoudi/JamalAmoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Jamal 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Backend Software Engineer ⚙️ | System Builder | Problem Solver
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- ⚙️ Backend developer focused on scalable systems & APIs  
+- 🏗️ Passionate about system design & clean architecture  
+- 🚀 I enjoy turning complex problems into simple solutions  
+- 📍 Always learning, always building  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,mongodb,postgres,docker,git" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🔹 **API System** – scalable backend service with authentication & roles  
+- 🔹 **E-commerce Backend** – order, payment, and inventory system  
+- 🔹 **Auth Service** – JWT-based secure authentication system  
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- 🟢 Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+</p>
