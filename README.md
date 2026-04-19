@@ -1,6 +1,6 @@
 <!-- 🟣 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Backend%20Engineer&fontSize=40&fontColor=fffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Backend%20Engineer&fontSize=40&fontColor=ffff" />
 </p>
 
 <h1 align="center">Hi, I'm Jamal 👋</h1>
