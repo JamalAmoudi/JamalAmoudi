@@ -32,8 +32,8 @@ Backend Software Engineer ⚙️ | System Builder | Problem Solver
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JamalAmoudi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamalAmoudi&theme=tokyonight" />
 </p>
 
 ---
@@ -48,17 +48,17 @@ Backend Software Engineer ⚙️ | System Builder | Problem Solver
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamalAmoudi&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/jamal-amoudi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:jamaldamoudi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
