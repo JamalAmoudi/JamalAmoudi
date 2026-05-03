@@ -32,7 +32,7 @@ Backend Software Engineer ⚙️ | System Builder | Problem Solver
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=JamalAmoudi&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=JamalAmoudi&show_icons=true&theme=tokyonight)" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JamalAmoudi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamalAmoudi&theme=tokyonight" />
 </p>
 
