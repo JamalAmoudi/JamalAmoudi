@@ -130,12 +130,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamalAmoudi&theme=github_dark" alt="GitHub Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JamalAmoudi&theme=github_dark" alt="GitHub Stats" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JamalAmoudi&theme=github_dark" alt="Repos per Language" width="49%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JamalAmoudi&theme=github_dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JamalAmoudi&theme=github_dark" alt="Productive Time" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JamalAmoudi&theme=github_dark" alt="Most Commit Language" width="49%" />
 </div>
 
