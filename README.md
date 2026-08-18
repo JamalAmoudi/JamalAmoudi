@@ -134,10 +134,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JamalAmoudi&theme=github_dark" alt="Repos per Language" width="49%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JamalAmoudi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JamalAmoudi&theme=github_dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JamalAmoudi&theme=github_dark" alt="Most Commit Language" width="49%" />
 </div>
 
 ---
